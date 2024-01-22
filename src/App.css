@@ -95,7 +95,6 @@ body {
   top: 0;
   left: 0;
   width: 100%;
-  background: red;
   height: 100%;
   z-index: -1;
   background: linear-gradient(180deg, #FF6001 0%, rgba(255, 119, 38, 0.00) 100%);
@@ -279,7 +278,6 @@ body {
   gap: 2vw;
 }
 .latestMovieCard {
-  background-color: red;
   width: 100%;
   border-radius: 0.75vw;
   overflow: hidden;
